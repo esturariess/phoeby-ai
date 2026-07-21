@@ -1,5 +1,8 @@
 ***An AI healthcare assistant which manages a patient's health records in one place, and helps in a patient's health journey.***
 
+<sup><sub>*(Submitted for Robo-Bharat Hackathon 2026)*</sub></sup>
+<sup><sub>*(Team: Deepika, Medha, Ananya, Harshal)*</sub></sup>
+
 **Domain:** Healthcare | **SDG Alignment:** SDG 3 – Good Health and Well-being
 
 **Problem Statement:**
@@ -22,3 +25,8 @@ This AI, our solution, will:
 - Meta WhatsApp Cloud API (WhatsApp integration)
 - Google Document AI (scanning files)
 - HTML (frontend)
+
+ **Impact**
+  - **Short-term:** Instant, human-friendly language understanding of prescriptions and diagnoses
+  - **Mid-term:** Fewer harmful drug interactions
+  - **Long-term:** A simpler, easier and less stressful medical journey
