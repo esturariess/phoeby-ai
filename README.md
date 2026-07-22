@@ -1,7 +1,7 @@
 ***An AI healthcare assistant which helps in chronic fitness & sports injury rehabilitation.***
 
 <sup><sub>*(Submitted for Robo-Bharat Hackathon 2026)*</sub></sup>
-//<sup><sub>*(Team: Deepika, Medha, Ananya, Harshal)*</sub></sup>
+//  <sup><sub>*(Team: Deepika, Medha, Ananya, Harshal)*</sub></sup>
 
 **Domain:** Healthcare | **SDG Alignment:** SDG 3 – Good Health and Well-being
 
@@ -25,4 +25,4 @@ Active adults, athletes, and arthritis patients struggle with tracking micro-sym
 
 
 **Sources And Research:**
-Check "Reasearch & Sources" for all sources reffered in this.
+Check "Research & Sources" for all sources refered in this.
