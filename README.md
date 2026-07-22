@@ -6,7 +6,7 @@
 **Domain:** Healthcare | **SDG Alignment:** SDG 3 – Good Health and Well-being
 
 **Problem Statement:**
-Active adults, athletes, and arthritis patients struggle with tracking micro-symptoms, pain levels, and rehabilitation exercise compliance over time (65%–70% of patients), performing rehabilitation exercises correctly, facing lengthy wait times, and busy phone lines, just to ask questions, share test results​, and whatnot, going through long rehabilitation journeys without visible progress data, and not taking notice of small, micro-symptoms, ​and also managing medical records.
+Active adults, athletes, and arthritis patients struggle with tracking micro-symptoms, pain levels, and rehabilitation exercise compliance over time (65%–70% of patients), performing rehabilitation exercises correctly, facing lengthy wait times, and busy phone lines (over 66% of patients with joint issues or arthritis), just to ask questions, share test results​, and whatnot, going through long rehabilitation journeys without visible progress data, and not taking notice of small, micro-symptoms, ​and also managing medical records.
 
 **Solution**
 This AI, our solution, will:
@@ -17,7 +17,6 @@ This AI, our solution, will:
 - With real-time symptom logging and pattern analysis, it detects early risk indicators, and alerts their doctor about it, before becoming severe.​​
 
 **Tech Stack**
-
 - Python (backend)
 - Pydantic (updating data fields​)
 - Claude
@@ -26,3 +25,5 @@ This AI, our solution, will:
 - HTML (frontend)
 
 
+**Sources And Research**
+Check "Reasearch & Sources" for all sources reffered in this.
