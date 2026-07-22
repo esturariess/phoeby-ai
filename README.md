@@ -1,32 +1,28 @@
-***An AI healthcare assistant which manages a patient's health records in one place, and helps in a patient's health journey.***
+***An AI healthcare assistant which helps in chronic fitness & sports injury rehabilitation.***
 
 <sup><sub>*(Submitted for Robo-Bharat Hackathon 2026)*</sub></sup>
-<sup><sub>*(Team: Deepika, Medha, Ananya, Harshal)*</sub></sup>
+//<sup><sub>*(Team: Deepika, Medha, Ananya, Harshal)*</sub></sup>
 
 **Domain:** Healthcare | **SDG Alignment:** SDG 3 – Good Health and Well-being
 
 **Problem Statement:**
-Many people, especially the elderly who practice solo-aging (and elders, in general), and people with a lot of medical history, face challenges within their medical journey, like managing a mountain of medical records and test records, waiting for hours to just ask a question,share test results, and whatnot, and also remembering their medical schedule and diet management. 
- ​
+Active adults, athletes, and arthritis patients struggle with tracking micro-symptoms, pain levels, and rehabilitation exercise compliance over time (65%–70% of patients), performing rehabilitation exercises correctly, facing lengthy wait times, and busy phone lines, just to ask questions, share test results​, and whatnot, going through long rehabilitation journeys without visible progress data, and not taking notice of small, micro-symptoms, ​and also managing medical records.
+
 **Solution**
 This AI, our solution, will:
-- Cluster medical records and allergy history in one place (and update those, when needed)
+- Cluster medical records in one place 
 - Securely stores the patient's health records, and is only accessable to the patient
-- Simplifies medical jargon via an NLU (Natural Language Understanding)
-- Tailors a food plan for the patient and if they can eat it or not, based on 
-- Tracks medication schedules and sends reminders by an notification which cannot be ignored unless they take it
 - Connects patients to doctors via WhatsApp by Claude & Meta WhatsApp Cloud API)
+- Gives a progress meter for the patient's rehabilitation progress,and instantaneously edits and increases it based on what the patient had done.
+- With real-time symptom logging and pattern analysis, it detects early risk indicators, and alerts their doctor about it, before becoming severe.​​
 
 **Tech Stack**
 
 - Python (backend)
-- ConnectAI WhatsApp Engine (message routing)
+- Pydantic (updating data fields​)
 - Claude
 - Meta WhatsApp Cloud API (WhatsApp integration)
 - Google Document AI (scanning files)
 - HTML (frontend)
 
- **Impact**
-  - **Short-term:** Instant, human-friendly language understanding of prescriptions and diagnoses
-  - **Mid-term:** Fewer harmful drug interactions
-  - **Long-term:** A simpler, easier and less stressful medical journey
+
